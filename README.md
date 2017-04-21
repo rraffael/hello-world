@@ -1,4 +1,4 @@
 # hello-world
 Hello World job
 
-Hi, i am a student starting bit hub by the freecodecamp.
+Hello, i am trying to master my web programming.
